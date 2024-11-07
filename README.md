@@ -76,10 +76,3 @@ print("F1 Score:", f1_score(y_test, y_pred))
 
 The results of the model are discussed in detail in the notebook, including visualizations that highlight the performance metrics. Key insights and suggestions for improvement are provided based on the model's performance.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or raise an issue to discuss potential improvements or features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
