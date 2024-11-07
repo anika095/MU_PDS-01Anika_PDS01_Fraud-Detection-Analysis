@@ -27,7 +27,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/anika095/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
    ```
 
